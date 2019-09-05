@@ -29,6 +29,14 @@ Or install it yourself as:
 Call it as Class Method with a ranges as arguments
 
       FizzBuzz.fizzbuzz(lower_limit, upper_limit)
+      
+## Version
+1.0.0 - Base Version
+1.0.1 - Zero value and Negative value errors fixed
+
+      
+## Author
+Mohammed Ferbin Karumannil
 
 ## Contributing
 
