@@ -33,6 +33,7 @@ Call it as Class Method with a ranges as arguments
 ## Version
 1.0.0 - Base Version
 1.0.1 - Zero value and Negative value errors fixed
+1.0.2 - Optimized Error Handling
 
       
 ## Author
